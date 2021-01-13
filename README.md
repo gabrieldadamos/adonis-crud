@@ -1,6 +1,10 @@
 # Adonis CRUD - Ligue
 
-API desenvolvida o especialmente para o processo seletivo. 
+API desenvolvida o especialmente para o processo seletivo.
+
+Endpoint com deploy na AWS utilizando o Docker:
+
+http://54.221.34.187:8080/
 
 ## Setup
 
