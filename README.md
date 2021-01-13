@@ -22,6 +22,10 @@ Para iniciar os testes unitários, é necessário que configurar o arquivo .env.
 adonis test
 ```
 
+Resultado Esperado:
+
+<img src="https://i.imgur.com/kHehPep.png" />
+
 ## Endpoints
 
 <strong>Faz a listagem de todos os desenvolvedores</strong>
